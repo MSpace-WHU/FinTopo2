@@ -42,12 +42,12 @@ Table 1. File naming convention variables and descriptions.
 <div align="justify">
 We recommend using the geotiffread or readgeoraster functions in MATLAB to read the .tif images in the dataset. The function usage is as follows:<br><br>
 </div>
-<div align="justify">
-[A, R] = geotiffread(‘yourfile.tif’);<br><br>
-</div>
-<div align="justify">
-[A, R] = readgeoraster(‘yourfile.tif’);<br><br>
-</div>
+
+```matlab
+[A, R] = geotiffread(‘yourfile.tif’);
+[A, R] = readgeoraster(‘yourfile.tif’);
+```
+
 <div align="justify">
 A: contains the image data as a matrix.<br><br>
 </div>
