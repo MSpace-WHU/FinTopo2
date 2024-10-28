@@ -67,3 +67,4 @@ Due to the large size of the FinTopo2 dataset (approximately 630 GB), we are in 
 <div align="justify">
 FinTopo2 is an open-access dataset under the license CC BY 4.0.<br><br>
 </div>
+
